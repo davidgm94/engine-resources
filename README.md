@@ -7,7 +7,7 @@ This is a list of game development resources I will be collecting
 
 ### Game Career Seminars
 
-*[Networking Etiquette for the Modern Games Industry Professional](https://gdcvault.com/play/1025796/)
+* [Networking Etiquette for the Modern Games Industry Professional](https://gdcvault.com/play/1025796/)
 
 **Speaker(s):**	Jarryd Huntley
 
