@@ -1,7 +1,5 @@
-# Graphics Game Development Resources
-This is a list of game development resources I will be collecting
-
-
+# Graphics and Game Programming resources
+This is a list of game development resources I will be collecting. These are of interest to me, as it involves graphics, engine and gameplay programming, as well as game dev career stuff that I consider important.
 
 ## GDC 2019 by topic
 
@@ -66,5 +64,6 @@ This is a list of game development resources I will be collecting
 **Company Name(s):** 343 Industries, Gameheads, USC, Crows, Crows, Crows, Crows, Crows, Crows, Insert Credit
 
 **Overview:** What better way to improve your own games than by building on the successes and failures of those who have come before you? This session highlights the development of three games from three different approaches. Tim Staton-Davis will discuss the triple-A title 'Middle-Earth: Shadow of War', specifically from his perspective as designer. William Pugh and Jan Stroetmann will take a decidedly unique approach when dissecting their indie nightmare adventure comedy 'Accounting+' (you'll have to see it in person). Lastly, students Kai Nyame and Milo Smiley will demonstrate their unique live-action game 'Ideal Meal', which allowed them to showcase at E3 and Indiecade.
+
 
 **Last code was: 1025805**
