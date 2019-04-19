@@ -65,5 +65,30 @@ This is a list of game development resources I will be collecting. These are of 
 
 **Overview:** What better way to improve your own games than by building on the successes and failures of those who have come before you? This session highlights the development of three games from three different approaches. Tim Staton-Davis will discuss the triple-A title 'Middle-Earth: Shadow of War', specifically from his perspective as designer. William Pugh and Jan Stroetmann will take a decidedly unique approach when dissecting their indie nightmare adventure comedy 'Accounting+' (you'll have to see it in person). Lastly, students Kai Nyame and Milo Smiley will demonstrate their unique live-action game 'Ideal Meal', which allowed them to showcase at E3 and Indiecade.
 
+### Programming
+
+* [Procedurally Crafting Manhattan for 'Marvel's Spider-Man']()
+
+**Speaker(s):**	David Santiago
+
+**Company Name(s):**	Insomniac Games
+
+**Overview:**	There is much discussion on managing the scope and implementation of procedural systems so that their final output may benefit from manual polish. The presentation describes the open world pipeline of 'Marvel's Spider-Man' and how each procedural system was originally designed to support iterations, and dependencies. Of course, the reality of production provided a larger set of tasks for procedural systems. These dependent elements and areas of the game were in vastly different stages of completion and created parallel pipelines. Insomniac's resulting procedural systems were used to author, modify and monitor much more content than planned. The anticipated and unforeseen challenges became success stories and have laid a road-map for future projects.
+
+* [Raising Atreus for Battle in 'God of War'](https://gdcvault.com/play/1025768)
+
+**Speaker(s):**	Hayato Yoshidome
+
+**Company Name(s):**	Sony Santa Monica Studio
+
+**Overview:**	'God of War' is a new beginning for Kratos as well as for the Sony Santa Monica development team. While Kratos struggled to build a meaningful relationship with his son, this talk will detail how the development team worked to make Atreus a fully realized companion AI. From conception through several approaches and iterations, how do you maintain Kratos' iconic combat style while making Atreus feel vital and important to gameplay? How do you do all of this while simultaneously reimagining Kratos' style of combat from the ground up? Delving into the different archetypes explored, as well as pitfalls to each iteration along the way, this talk will take attendees through the process of designing and building a compelling AI that is as integral to the gameplay as he is to the story.
+
+* [Everyone Watching This Is Fired](https://gdcvault.com/play/1025778)
+
+**Speaker(s):**	Mike Acton
+
+**Company Name(s):**	Unity Technologies
+
+**Overview:**	Mike presents some broad, sweeping, and perhaps unfair, generalizations about programmers in the industry. He then shares his expectations for what it would mean to strive to be among the very best programmers in the field. Specifically the technical, individual and team skills required for any programmer to solve the hard problems before them. For those programmers where good enough just isn't, and that want to take control of their own learning and careers, but just need to know what their next steps should practically be to have a bigger impact.
 
 **Last code was: 1025805**
