@@ -5,7 +5,27 @@ This is a list of game development resources I will be collecting
 
 ## GDC 2019 by topic
 
+### Advocacy
+
+* [Lessons from Labor Union Organizers](https://gdcvault.com/play/1025793/)
+
+**Speaker(s):**	Emma Kinema, Kevin Gregory Agwaze, Linda Dao, Justin Molito, Liz Shuler
+
+**Company Name(s):**	Game Workers Unite International, Game Workers Unite UK, SAG-AFTRA, Writers Guild of America, East, AFL-CIO
+
+**Overview:**	Are you interested in the idea of unionization in the game industry but you have questions about it? Don't know how to resolve a workplace issue and need some advice? Join Emma Kinema (Game Workers Unite), Kevin Agwaze (Game Workers Unite UK), Linda Dao (SAG-AFTRA), Justin Molito (Writers Guild of America, East), and Liz Shuler (AFL-CIO) in this special Q&A session and have all your questions about unions and employment rights answered by a panel of experienced labor organizers from the entertainment industries.
+
 ### Game Career Seminars
+
+* 
+
+* [A Survival Guide for Game Developers](https://gdcvault.com/play/1025795/)
+
+**Speaker(s):**	Richard Vogel
+
+**Company Name(s):**	Certain Affinity
+
+**Overview:** If you are aspiring toward a career in game development this is a lecture you don't want to miss. Richard Vogel will discuss his observations of what it's like working in the games industry for over 20 years and the most important soft skills needed for success.
 
 * [Networking Etiquette for the Modern Games Industry Professional](https://gdcvault.com/play/1025796/)
 
