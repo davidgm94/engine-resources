@@ -67,13 +67,7 @@ This is a list of game development resources I will be collecting. These are of 
 
 ### Programming
 
-* [Procedurally Crafting Manhattan for 'Marvel's Spider-Man']()
-
-**Speaker(s):**	David Santiago
-
-**Company Name(s):**	Insomniac Games
-
-**Overview:**	There is much discussion on managing the scope and implementation of procedural systems so that their final output may benefit from manual polish. The presentation describes the open world pipeline of 'Marvel's Spider-Man' and how each procedural system was originally designed to support iterations, and dependencies. Of course, the reality of production provided a larger set of tasks for procedural systems. These dependent elements and areas of the game were in vastly different stages of completion and created parallel pipelines. Insomniac's resulting procedural systems were used to author, modify and monitor much more content than planned. The anticipated and unforeseen challenges became success stories and have laid a road-map for future projects.
+* [Procedurally Crafting Manhattan for 'Marvel's Spider-Man'](https://gdcvault.com/play/1025765), David Santiago, Insomniac Games
 
 * [Raising Atreus for Battle in 'God of War'](https://gdcvault.com/play/1025768)
 
