@@ -1,1 +1,6 @@
 * [Memory, Cache, CPU optimization resources](https://gist.github.com/ocornut/cb980ea183e848685a36)
+* [RDNA Architecture Presentation](https://gpuopen.com/wp-content/uploads/2019/08/RDNA_Architecture_public.pdf)
+* [RDNA Performance Guide](https://gpuopen.com/performance/)
+* [RDNA ISA](https://developer.amd.com/wp-content/resources/RDNA_Shader_ISA.pdf)
+* [RDNA whitepaper](https://www.amd.com/system/files/documents/rdna-whitepaper.pdf)
+* [Unreal Engine performance guide](https://gpuopen.com/unreal-engine-performance-guide/)
