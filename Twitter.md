@@ -124,4 +124,4 @@
 * [Physics-based animation](https://iphys.wordpress.com/2020/01/12/free-textbook-physics-based-animation/) 
 * [Float toy](http://evanw.github.io/float-toy/)
 * [An Opinionated Post on Modern Rendering Abstraction Layers](http://alextardif.com/RenderingAbstractionLayers.html)
-* [Comprehensible Rendering of 3-D Shapes](https://www.cs.princeton.edu/courses/archive/fall00/cs597b/papers/saito90.pdf)
+* [Comprehensible Rendering of 3D Shapes](https://www.cs.princeton.edu/courses/archive/fall00/cs597b/papers/saito90.pdf)
