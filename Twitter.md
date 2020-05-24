@@ -125,3 +125,6 @@
 * [Float toy](http://evanw.github.io/float-toy/)
 * [An Opinionated Post on Modern Rendering Abstraction Layers](http://alextardif.com/RenderingAbstractionLayers.html)
 * [Comprehensible Rendering of 3D Shapes](https://www.cs.princeton.edu/courses/archive/fall00/cs597b/papers/saito90.pdf)
+* [Diligente Engine](https://github.com/DiligentGraphics/DiligentEngine)
+* [Clang precompiled headers and improving C++ compile times, take #2](http://llunak.blogspot.com/2019/11/clang-precompiled-headers-and-improving.html)
+* [Direct3D 11 Debug API Tricks](https://seanmiddleditch.com/direct3d-11-debug-api-tricks/)
