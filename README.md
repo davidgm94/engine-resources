@@ -307,6 +307,7 @@
 * [Understanding data-oriented design for entity component systems - Unity at GDC 2019](https://www.youtube.com/watch?v=0_Byw9UMn9g)
 * [Resources for learning graphics programming](http://stephaniehurlburt.com/blog/2019/3/25/resources-for-learning-graphics-programming)
 * [Geometry for computer graphics](https://www.geometrictools.com/Documentation/Documentation.html)
+* [Universal Rendering Pipeline](https://teofilobd.github.io/unity/shaders/urp/graphics/2020/05/18/From-Built-in-to-URP.html)
 
 
 # Bookmarks
