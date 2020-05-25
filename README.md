@@ -1,4 +1,6 @@
+# PLEASE, SEE OTHER MARKDOWN FILES TO HAVE MORE USEFUL CONTENT!!!!
 # Graphics and Game Progrramming resources
+
 This is a list of game development resources I will be collecting. These are of interest to me, as it involves graphics, engine and gameplay progrramming, as well as game dev career stuff that I consider important.
 
 ## GsDC 2019 by topic
