@@ -1,3 +1,7 @@
+# ENGINE DEVELOPMENT RESOURCES
+## This is a list of graphics/tools/engine/game programming resources to learn from. At the moment it's just a messy pile of links. I will try to add more links and classify them into files. These are just links mainly from Twitter, courses and books.
+
+
 # Twitter
 
 
