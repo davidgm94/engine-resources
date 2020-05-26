@@ -308,6 +308,7 @@
 * [Resources for learning graphics programming](http://stephaniehurlburt.com/blog/2019/3/25/resources-for-learning-graphics-programming)
 * [Geometry for computer graphics](https://www.geometrictools.com/Documentation/Documentation.html)
 * [Universal Rendering Pipeline](https://teofilobd.github.io/unity/shaders/urp/graphics/2020/05/18/From-Built-in-to-URP.html)
+* [Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
 
 
 # Bookmarks
