@@ -309,6 +309,10 @@
 * [Geometry for computer graphics](https://www.geometrictools.com/Documentation/Documentation.html)
 * [Universal Rendering Pipeline](https://teofilobd.github.io/unity/shaders/urp/graphics/2020/05/18/From-Built-in-to-URP.html)
 * [Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
+* [AVX-512 Mask Registers, Again](https://travisdowns.github.io/blog/2020/05/26/kreg2.html)
+* [How to Calculate single-vector Dot Product using SSE intrinsic functions in C](https://stackoverflow.com/questions/4120681/how-to-calculate-single-vector-dot-product-using-sse-intrinsic-functions-in-c)
+* [Intel AVX: 256-bits version of dot product for double precision floating point variables](https://stackoverflow.com/questions/10454150/intel-avx-256-bits-version-of-dot-product-for-double-precision-floating-point-v/47445367#47445367)
+
 
 
 # Bookmarks
